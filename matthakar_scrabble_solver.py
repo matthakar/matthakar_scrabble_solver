@@ -10,7 +10,7 @@ The official Scrabble rules can be found here: https://www.scrabblepages.com/scr
 
 The Scrabble dictionary used to pull legal Scrabble words can be found here: https://www.kaggle.com/datasets/bdelanghe/scrabble-dictionary/data
 
-This Script is split into three main parts. Once the scrabble_dictionary_path is defined, only Part 1 requires user input:
+This script is split into three main parts. Once the scrabble_dictionary_path is defined, only Part 1 requires user input:
 
 Part 1. Manually define input parameters 
 Part 2. Find all legal Scrabble words based on the input parameters
